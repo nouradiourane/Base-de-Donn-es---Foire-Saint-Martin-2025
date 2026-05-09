@@ -1,6 +1,8 @@
 # 🎡 Base de Données - Foire Saint-Martin 2025
 
 Ce dépôt contient la correction de l'examen de **Bases de Données 2 (L2 Informatique)** concernant la gestion d'une fête foraine sous **PostgreSQL**.
+## 👤 Auteur
+*   **Noura**
 
 ## 📋 Sujet
 L'objectif est de modéliser et manipuler les données relatives aux forains, leurs attractions et les emplacements qu'ils occupent durant la foire.
